@@ -1,7 +1,7 @@
 "Pakken ser og ophæver
-en frihed og denne tunge
-vej bliver silende
-et træ fra vågnende kvinder
+en frihed og denne lætte
+gård bliver silende
+et træ fra sovende kvinder
 stivnet i deres forskels
-gård på noget hoved findes ud."
+gård på kage hoved findes ud."
 asdfgbnmcdfghgf
