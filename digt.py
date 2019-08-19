@@ -1,7 +1,1 @@
-"Pakken ser og ophæver
-en frihed og denne tunge
-vej bliver silende
-et træ fra vågnende kvinder
-stivnet i deres forskels
-gård på noget hoved findes ud."
-asdfgbnmcdfghgf
+print("Pakken ser og ophæver\nen frihed og denne tunge\nvej bliver silende\net træ fra vågnende kvinder\nstivnet i deres forskels\ngård på noget hoved findes ud.")
